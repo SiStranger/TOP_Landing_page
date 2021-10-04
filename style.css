@@ -1,0 +1,39 @@
+* {
+    background-color: #A45D5D;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main {
+    margin-left: 5%;
+    margin-top: 2%;
+    
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-logo {
+    color: #EFEFEF;
+}
+
+.header-links {
+
+    color: #EFEFEF;
+    font-size: 120%;
+    margin-right: 5%;
+    
+    
+    
+    
+    
+      
+}
+
+.header-items {
+    padding-left: 10px;
+    padding-right: 10px;
+    ;
+}
