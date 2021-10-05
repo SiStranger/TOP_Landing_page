@@ -1,10 +1,10 @@
 * {
-    background-color: #A45D5D;
+    background-color: #457b9d;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .main {
-    margin-left: 5%;
+    margin-left: 15%;
     margin-top: 2%;
     
 }
@@ -16,24 +16,73 @@
 }
 
 .header-logo {
-    color: #EFEFEF;
+    color: #f1faee;
 }
 
 .header-links {
 
-    color: #EFEFEF;
+    color: #f1faee;
     font-size: 120%;
-    margin-right: 5%;
-    
-    
-    
-    
-    
+    margin-right: 15%;
       
 }
 
 .header-items {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
     ;
+}
+
+.main-2 {
+    padding-top: 5%;
+    display: flex;
+    color: #f1faee;
+}
+
+.left-h2 {
+    color: #f1faee;
+    font-weight: bolder;
+    font-size: 300%;
+    
+    
+}
+
+.left-p {
+    font-size: 130%;
+    font-weight: lighter;
+}
+
+.landing-img {
+    height: 300px;
+    width: 700px;
+    padding-right: 250px;
+    padding-left: 100px;
+    border-radius: 900px/200%;
+    
+}
+
+.myButton {
+	background-color:#1d3557;
+	border-radius:9px;
+	display:inline-block;
+	cursor:pointer;
+	color:#f1faee;
+	font-family:Arial;
+	font-size:20px;
+	padding:12px 49px;
+	text-decoration:none;
+	text-shadow:0px 2px 10px #303030;
+    display: inline-flexbox;
+}
+.myButton:hover {
+	background-color:#f1faee;
+    color: #1d3557;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.main-3 {
+    background-color: #1d3557;
 }
